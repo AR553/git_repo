@@ -1,1 +1,1 @@
-This is a temporary file 2 adn hopefully this will cause a conflict.
+This is a temporary file.
