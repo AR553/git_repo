@@ -1,1 +1,1 @@
-This is a temporary file 3 and hopefully this will cause a conflict.
+This is a temporary file 3 and hopefully this will resolve the conflict.
